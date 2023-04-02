@@ -1,1 +1,179 @@
-{}
+{
+        "inventors": [
+                {
+                        "id": 1,
+                        "nom": "Lewis Latimer",
+                        "age": 70,
+                        "invention": "l'ampoule électrique à incandescence",
+                        "profession": "ingénieur"
+                },
+                {
+                        "id": 2,
+                        "nom": "George Washington Carver",
+                        "age": 78,
+                        "invention": "plusieurs produits dérivés de l'arachide",
+                        "profession": "scientifique et botaniste"
+                },
+                {
+                        "id": 3,
+                        "nom": "Marie Van Brittan Brown",
+                        "age": 53,
+                        "invention": "système de surveillance à domicile",
+                        "profession": "inventrice"
+                },
+                {
+                        "id": 4,
+                        "nom": "Lonnie G. Johnson",
+                        "age": 72,
+                        "invention": "Super Soaker",
+                        "profession": "ingénieur et inventeur"
+                },
+                {
+                        "id": 5,
+                        "nom": "Otis Boykin",
+                        "age": 69,
+                        "invention": "résistances électriques précises pour les pacemakers",
+                        "profession": "inventeur et ingénieur électronicien"
+                },
+                {
+                        "id": 6,
+                        "nom": "Jan Ernst Matzeliger",
+                        "age": 37,
+                        "invention": "machine à fabriquer des chaussures",
+                        "profession": "inventeur et ingénieur mécanicien"
+                },
+                {
+                        "id": 7,
+                        "nom": "Patricia Bath",
+                        "age": 76,
+                        "invention": "dispositif pour la chirurgie de la cataracte",
+                        "profession": "ophtalmologiste et inventrice"
+                },
+                {
+                        "id": 8,
+                        "nom": "Philip Emeagwali",
+                        "age": 67,
+                        "invention": "ordinateur le plus rapide au monde à son époque",
+                        "profession": "informaticien et ingénieur électronicien"
+                },
+                {
+                        "id": 9,
+                        "nom": "Garrett Morgan",
+                        "age": 86,
+                        "invention": "semaphore de circulation",
+                        "profession": "inventeur et entrepreneur"
+                },
+                {
+                        "id": 10,
+                        "nom": "Norbert Rillieux",
+                        "age": 47,
+                        "invention": "évaporateur sous vide pour la fabrication de sucre",
+                        "profession": "ingénieur et inventeur"
+                },
+                {
+                        "id": 11,
+                        "nom": "Elijah McCoy",
+                        "age": 87,
+                        "invention": "système de lubrification automatique pour les machines à vapeur",
+                        "profession": "inventeur et ingénieur mécanicien"
+                },
+                {
+                        "id": 12,
+                        "nom": "Mark Dean",
+                        "age": 67,
+                        "invention": "ordinateur personnel",
+                        "profession": "informaticien et ingénieur électronicien"
+                },
+                {
+                        "id": 13,
+                        "nom": "Madam C.J. Walker",
+                        "age": 51,
+                        "invention": "produits de beauté pour les femmes noires",
+                        "profession": "entrepreneure et inventrice"
+                },
+                {
+                        "id": 14,
+                        "nom": "Meredith Gourdine",
+                        "age": 77,
+                        "invention": "dispositif de propulsion à jet d'eau pour les bateaux",
+                        "profession": "ingénieur et inventeur"
+                },
+                {
+                        "id": 15,
+                        "nom": "Gerald Lawson",
+                        "age": 70,
+                        "invention": "console de jeux vidéo",
+                        "profession": "ingénieur électronicien et concepteur de jeux vidéo"
+                },
+                {
+                        "id": 16,
+                        "nom": "Sarah E. Goode",
+                        "age": 47,
+                        "invention": "lit pliant et escamotable",
+                        "profession": "entrepreneuse et inventrice"
+                },
+                {
+                        "id": 17,
+                        "nom": "Percy Julian",
+                        "age": 76,
+                        "invention": "synthèse de médicaments à partir de plantes",
+                        "profession": "chimiste et inventeur"
+                },
+                {
+                        "id": 18,
+                        "nom": "Valerie Thomas",
+                        "age": 76,
+                        "invention": "dispositif de visualisation en 3D",
+                        "profession": "physicienne et inventrice"
+                },
+                {
+                        "id": 19,
+                        "nom": "Charles Richard Drew",
+                        "age": 45,
+                        "invention": "techniques de préservation du sang",
+                        "profession": "médecin et chercheur en médecine"
+                },
+                {
+                        "id": 20,
+                        "nom": "James E. West",
+                        "age": 70,
+                        "invention": "microphone électret",
+                        "profession": "physicien et ingénieur électronicien"
+                },
+                {
+                        "id": 21,
+                        "nom": "George Carruthers",
+                        "age": 82,
+                        "invention": "spectromètre ultraviolet pour l'observation astronomique",
+                        "profession": "astrophysicien et inventeur"
+                },
+                {
+                        "id": 22,
+                        "nom": "Lisa Gelobter",
+                        "age": 53,
+                        "invention": "animation GIF",
+                        "profession": "entrepreneuse, ingénieure et productrice"
+                },
+                {
+                        "id": 23,
+                        "nom": "Lonnie Bunch",
+                        "age": 68,
+                        "invention": "musée national de l'histoire et de la culture afro-américaines",
+                        "profession": "historien et conservateur de musée"
+                },
+                {
+                        "id": 24,
+                        "nom": "Mae Jemison",
+                        "age": 65,
+                        "invention": "combinaison de vol spatiale",
+                        "profession": "astronaute, médecin et ingénieure"
+                },
+                {
+                        "id": 25,
+                        "nom": "Katherine Johnson",
+                        "age": 104,
+                        "invention": "calculs mathématiques pour la NASA",
+                        "profession": "mathématicienne et informaticienne"
+                }
+        ]
+}
