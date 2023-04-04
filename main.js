@@ -23,6 +23,7 @@ app.post('/data', (req, res) => {
         age: req.body.age,
         work: req.body.work,
         bio: req.body.bio,
+        invention: req.body.invention,
         city: req.body.city,
     };
     data["inventors"].push(newItem);
@@ -38,4 +39,16 @@ app.delete('/data/:id', (req, res) => {
     fs.writeFileSync('inventors.json', JSON.stringify(data));
     res.send(data);
     
+})
+
+app.put('/data/:id', (req, res) => {
+    const id = req.params.id;
+    const index = data["inventors"].findIndex((item) => item.id == id);
+    data["inventors"][index].name = req.body.name;
+    data["inventors"][index].age = req.body.age;
+    data["inventors"][index].work = req.body.work;
+    data["inventors"][index].bio = req.body.bio;
+    data["inventors"][index].city = req.body.city;
+    fs.writeFileSync('inventors.json', JSON.stringify(data));
+    res.send(data);
 })
