@@ -34,16 +34,23 @@ app.post('/data', (req, res) => {
 
 app.delete('/data/:id', (req, res) => {
     const id = req.params.id;
-    const index = data["inventors"].findIndex((item) => item.id == id);
-    data["inventors"].splice(index, 1);
-    fs.writeFileSync('inventors.json', JSON.stringify(data));
-    res.send(data);
-    
+    if (id < data["inventors"].length || id > data["inventors"].length) {
+        res.status(404).send("Invalid ID");
+    }
+    else {
+        const index = data["inventors"].findIndex((item) => item.id == id);
+        data["inventors"].splice(index, 1);
+        fs.writeFileSync('inventors.json', JSON.stringify(data));
+        res.send(data);
+    }
 })
 
 app.put('/data/:id', (req, res) => {
     const id = req.params.id;
-    const index = data["inventors"].findIndex((item) => item.id == id);
+    if (id < data["inventors"].length || id > data["inventors"].length) {
+        res.status(404).send("Invalid ID");
+    } else {
+        const index = data["inventors"].findIndex((item) => item.id == id);
     data["inventors"][index].name = req.body.name;
     data["inventors"][index].age = req.body.age;
     data["inventors"][index].work = req.body.work;
@@ -51,4 +58,5 @@ app.put('/data/:id', (req, res) => {
     data["inventors"][index].city = req.body.city;
     fs.writeFileSync('inventors.json', JSON.stringify(data));
     res.send(data);
+    }
 })

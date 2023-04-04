@@ -5,181 +5,223 @@
                         "name": "Lewis Latimer",
                         "age": 70,
                         "invention": "l'ampoule électrique à incandescence",
-                        "work": "ingénieur"
+                        "work": "ingénieur",
+                        "city": "Chelsea, Massachusetts",
+                        "bio": "Lewis Latimer est né en 1848 à Chelsea, Massachusetts, aux États-Unis. Il était un ingénieur et inventeur afro-américain. Il a été l'un des premiers ingénieurs à travailler pour Thomas Edison, où il a contribué à la création de l'ampoule électrique à incandescence."
                 },
                 {
                         "id": 2,
                         "name": "George Washington Carver",
                         "age": 78,
                         "invention": "plusieurs produits dérivés de l'arachide",
-                        "work": "scientifique et botaniste"
+                        "work": "scientifique et botaniste",
+                        "city": "Diamond Grove, Missouri",
+                        "bio": "George Washington Carver est né en 1860 à Diamond Grove, Missouri, aux États-Unis. Il était un scientifique et botaniste afro-américain. Il est surtout connu pour avoir développé de nombreux produits dérivés de l'arachide, y compris le beurre d'arachide."
                 },
                 {
                         "id": 3,
                         "name": "Marie Van Brittan Brown",
                         "age": 53,
                         "invention": "système de surveillance à domicile",
-                        "work": "inventrice"
+                        "work": "inventrice",
+                        "city": "Queens, New York",
+                        "bio": "Marie Van Brittan Brown est née en 1922 à Queens, New York, aux États-Unis. Elle était une inventrice afro-américaine qui a développé un système de surveillance à domicile en 1966. Ce système a finalement conduit à la création de systèmes de sécurité modernes."
                 },
                 {
                         "id": 4,
                         "name": "Lonnie G. Johnson",
                         "age": 72,
                         "invention": "Super Soaker",
-                        "work": "ingénieur et inventeur"
+                        "work": "ingénieur et inventeur",
+                        "city": "Mobile, Alabama",
+                        "bio": "Lonnie G. Johnson est né en 1949 à Mobile, Alabama, aux États-Unis. Il était un ingénieur et inventeur afro-américain. Il est surtout connu pour avoir inventé le Super Soaker, un pistolet à eau très populaire."
                 },
                 {
                         "id": 5,
                         "name": "Otis Boykin",
                         "age": 69,
                         "invention": "résistances électriques précises pour les pacemakers",
-                        "work": "inventeur et ingénieur électronicien"
+                        "work": "inventeur et ingénieur électronicien",
+                        "city": "Dallas, Texas",
+                        "bio": "Otis Boykin est né en 1920 à Dallas, Texas, aux États-Unis. Il était un inventeur et ingénieur électronicien afro-américain. Il a développé des résistances électriques précises qui ont été utilisées dans de nombreuses applications, y compris les pacemakers."
                 },
                 {
                         "id": 6,
                         "name": "Jan Ernst Matzeliger",
                         "age": 37,
                         "invention": "machine à fabriquer des chaussures",
-                        "work": "inventeur et ingénieur mécanicien"
+                        "work": "inventeur et mécanicien"
                 },
                 {
                         "id": 7,
                         "name": "Patricia Bath",
                         "age": 76,
                         "invention": "dispositif pour la chirurgie de la cataracte",
-                        "work": "ophtalmologiste et inventrice"
+                        "work": "ophtalmologiste et inventrice",
+                        "city": "New York",
+                        "bio": "Patricia Bath était une ophtalmologiste américaine qui a inventé un dispositif pour la chirurgie de la cataracte qui a amélioré les résultats des opérations. Elle a également été une militante pour l'égalité des chances en médecine."
                 },
                 {
                         "id": 8,
                         "name": "Philip Emeagwali",
                         "age": 67,
                         "invention": "ordinateur le plus rapide au monde à son époque",
-                        "work": "informaticien et ingénieur électronicien"
+                        "work": "informaticien et ingénieur électronicien",
+                        "city": "Washington DC",
+                        "bio": "Philip Emeagwali est un informaticien et ingénieur électronicien nigérian-américain. Il est surtout connu pour avoir développé un ordinateur qui était le plus rapide au monde à son époque, ce qui a permis des avancées dans la modélisation du pétrole et la prévision météorologique."
                 },
                 {
                         "id": 9,
                         "name": "Garrett Morgan",
                         "age": 86,
                         "invention": "semaphore de circulation",
-                        "work": "inventeur et entrepreneur"
+                        "work": "inventeur et entrepreneur",
+                        "city": "Cleveland",
+                        "bio": "Garrett Morgan était un inventeur et entrepreneur américain qui a inventé le premier système de feu de circulation automatique à trois positions, appelé le « semaphore de circulation ». Il a également inventé un masque à gaz qui a été utilisé pendant la Première Guerre mondiale."
                 },
                 {
                         "id": 10,
                         "name": "Norbert Rillieux",
                         "age": 47,
                         "invention": "évaporateur sous vide pour la fabrication de sucre",
-                        "work": "ingénieur et inventeur"
+                        "work": "ingénieur et inventeur",
+                        "city": "La Nouvelle-Orléans",
+                        "bio": "Norbert Rillieux était un ingénieur et inventeur afro-américain qui a révolutionné la production de sucre en inventant l'évaporateur sous vide, qui a permis une production plus efficace et économique. Son invention a également été utilisée dans d'autres industries pour la production de produits chimiques et pharmaceutiques."
                 },
                 {
                         "id": 11,
                         "name": "Elijah McCoy",
                         "age": 87,
                         "invention": "système de lubrification automatique pour les machines à vapeur",
-                        "work": "inventeur et ingénieur mécanicien"
+                        "work": "inventeur et ingénieur mécanicien",
+                        "city": "Détroit",
+                        "bio": "Elijah McCoy était un inventeur et ingénieur mécanicien américain d'origine canadienne. Il est surtout connu pour avoir inventé un système de lubrification automatique pour les machines à vapeur, qui a permis des économies de temps et d'argent dans les industries ferroviaire et maritime."
                 },
                 {
                         "id": 12,
                         "name": "Mark Dean",
                         "age": 67,
                         "invention": "ordinateur personnel",
-                        "work": "informaticien et ingénieur électronicien"
+                        "work": "informaticien et ingénieur électronicien",
+                        "ville": "New York",
+                        "bio": "Mark Dean est un informaticien et ingénieur électronicien américain. Il est connu pour son rôle dans le développement de l'ordinateur personnel IBM PC en 1981."
                 },
                 {
                         "id": 13,
                         "name": "Madam C.J. Walker",
                         "age": 51,
                         "invention": "produits de beauté pour les femmes noires",
-                        "work": "entrepreneure et inventrice"
+                        "work": "entrepreneure et inventrice",
+                        "ville": "Indianapolis",
+                        "bio": "Madam C.J. Walker était une entrepreneure et inventrice afro-américaine. Elle est connue pour avoir créé une gamme de produits de beauté pour les femmes noires dans les années 1910, qui a connu un grand succès commercial."
                 },
                 {
                         "id": 14,
                         "name": "Meredith Gourdine",
                         "age": 77,
                         "invention": "dispositif de propulsion à jet d'eau pour les bateaux",
-                        "work": "ingénieur et inventeur"
+                        "work": "ingénieur et inventeur",
+                        "ville": "Paris",
+                        "bio": "Meredith Gourdine était un ingénieur et inventeur afro-américain. Il est connu pour avoir développé un dispositif de propulsion à jet d'eau pour les bateaux, qui a été utilisé lors des Jeux olympiques d'été de 1976 à Montréal."
                 },
                 {
                         "id": 15,
                         "name": "Gerald Lawson",
                         "age": 70,
                         "invention": "console de jeux vidéo",
-                        "work": "ingénieur électronicien et concepteur de jeux vidéo"
+                        "work": "ingénieur électronicien et concepteur de jeux vidéo",
+                        "ville": "San Francisco",
+                        "bio": "Gerald Lawson était un ingénieur électronicien et concepteur de jeux vidéo afro-américain. Il est connu pour avoir créé la première console de jeux vidéo à cartouches interchangeables, la Fairchild Channel F, en 1976."
                 },
                 {
                         "id": 16,
                         "name": "Sarah E. Goode",
                         "age": 47,
                         "invention": "lit pliant et escamotable",
-                        "work": "entrepreneuse et inventrice"
+                        "work": "entrepreneuse et inventrice",
+                        "ville": "Chicago",
+                        "bio": "Sarah E. Goode était une entrepreneuse et inventrice afro-américaine. Elle est connue pour avoir inventé le lit pliant et escamotable en 1885, qui a été breveté cette même année."
                 },
                 {
                         "id": 17,
                         "name": "Percy Julian",
                         "age": 76,
                         "invention": "synthèse de médicaments à partir de plantes",
-                        "work": "chimiste et inventeur"
+                        "work": "chimiste et inventeur",
+                        "city": "Oak Park, Illinois",
+                        "bio": "Percy Julian était un chimiste et inventeur afro-américain. Il est notamment connu pour avoir synthétisé la cortisone et d'autres médicaments à partir de plantes. Il a également été un militant pour les droits civiques des Noirs américains."
                 },
                 {
                         "id": 18,
                         "name": "Valerie Thomas",
                         "age": 76,
                         "invention": "dispositif de visualisation en 3D",
-                        "work": "physicienne et inventrice"
+                        "work": "physicienne et inventrice",
+                        "city": "Maryland, États-Unis",
+                        "bio": "Valerie Thomas est une physicienne et inventrice afro-américaine. Elle a notamment inventé un dispositif de visualisation en 3D pour la NASA qui a été utilisé pour observer les éruptions solaires. Elle a également travaillé pour la NASA dans le domaine de la recherche sur l'énergie solaire."
                 },
                 {
                         "id": 19,
                         "name": "Charles Richard Drew",
                         "age": 45,
                         "invention": "techniques de préservation du sang",
-                        "work": "médecin et chercheur en médecine"
+                        "work": "médecin et chercheur en médecine",
+                        "city": "Washington D.C., États-Unis",
+                        "bio": "Charles Richard Drew était un médecin et chercheur en médecine afro-américain. Il est notamment connu pour ses travaux sur la préservation du sang et la création de la première banque de sang. Il a également été un militant pour les droits civiques des Noirs américains."
                 },
                 {
                         "id": 20,
                         "name": "James E. West",
                         "age": 70,
                         "invention": "microphone électret",
-                        "work": "physicien et ingénieur électronicien"
+                        "work": "physicien et ingénieur électronicien",
+                        "city": "New York, États-Unis",
+                        "bio": "James E. West est un physicien et ingénieur électronicien afro-américain. Il est notamment connu pour avoir co-inventé le microphone électret, qui est maintenant utilisé dans la plupart des téléphones portables et des équipements audio. Il a également travaillé pour Bell Labs et a contribué à de nombreux développements dans le domaine de la technologie des télécommunications."
                 },
                 {
                         "id": 21,
                         "name": "George Carruthers",
                         "age": 82,
-                        "invention": "spectromètre ultraviolet pour l'observation astronameique",
-                        "work": "astrophysicien et inventeur"
+                        "invention": "spectromètre ultraviolet pour l'observation astronomique",
+                        "work": "astrophysicien et inventeur",
+                        "city": "Washington D.C., États-Unis",
+                        "bio": "George Carruthers est un astrophysicien et inventeur afro-américain. Il est notamment connu pour avoir inventé le spectromètre ultraviolet pour l'observation astronomique, qui a été utilisé lors de la mission Apollo 16 de la NASA. Il a également travaillé pour la Naval Research Laboratory et a reçu de nombreux prix et distinctions pour ses contributions à la science."
                 },
                 {
                         "id": 22,
                         "name": "Lisa Gelobter",
                         "age": 53,
                         "invention": "animation GIF",
-                        "work": "entrepreneuse, ingénieure et productrice"
+                        "work": "entrepreneuse, ingénieure et productrice",
+                        "city": "Brooklyn, New York",
+                        "bio": "Lisa Gelobter est une entrepreneuse, ingénieure et productrice américaine. Elle est connue pour avoir contribué au développement de la technologie Flash et pour avoir inventé l'animation GIF en 1987."
                 },
                 {
                         "id": 23,
                         "name": "Lonnie Bunch",
                         "age": 68,
                         "invention": "musée national de l'histoire et de la culture afro-américaines",
-                        "work": "historien et conservateur de musée"
+                        "work": "historien et conservateur de musée",
+                        "city": "Washington D.C.",
+                        "bio": "Lonnie Bunch est un historien et conservateur de musée américain. Il est le fondateur et le directeur du Musée national de l'histoire et de la culture afro-américaines à Washington D.C. Il a également été le premier directeur afro-américain du Musée national d'histoire américaine."
                 },
                 {
                         "id": 24,
                         "name": "Mae Jemison",
                         "age": 65,
                         "invention": "combinaison de vol spatiale",
-                        "work": "astronaute, médecin et ingénieure"
+                        "work": "astronaute, médecin et ingénieure",
+                        "city": "Decatur, Alabama",
+                        "bio": "Mae Jemison est une astronaute, médecin et ingénieure américaine. Elle est la première femme afro-américaine à être allée dans l'espace, en 1992. En dehors de ses activités spatiales, elle a travaillé en médecine, en ingénierie et en éducation."
                 },
                 {
                         "id": 25,
                         "name": "Katherine Johnson",
                         "age": 104,
                         "invention": "calculs mathématiques pour la NASA",
-                        "work": "mathématicienne et informaticienne"
-                },
-                {
-                        "id": 26,
-                        "name": "edwin",
-                        "age": "18",
-                        "work": "boulanger"
+                        "work": "mathématicienne et informaticienne",
+                        "city": "White Sulphur Springs, West Virginia",
+                        "bio": "Katherine Johnson était une mathématicienne et informaticienne américaine, qui a travaillé pour la NASA pendant plus de 30 ans. Elle est connue pour ses calculs mathématiques précis et ses contributions au programme spatial américain, notamment pour avoir calculé la trajectoire du vol de John Glenn autour de la Terre en 1962."
                 }
         ]
 }
