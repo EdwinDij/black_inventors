@@ -16,6 +16,43 @@ app.get('/data', (req, res) => {
     res.send(data);
 })
 
+app.get("/data/paginate", paginatedResults(data["inventors"]), (req, res) => {
+    res.json(res.paginatedResults);
+  });
+   
+  function paginatedResults(data) {
+    return (req, res, next) => {
+      const page = parseInt(req.query.page) || 1;
+      const limit = parseInt(req.query.limit) || 10;
+      const startIndex = (page - 1) * limit;
+      const endIndex = page * limit;
+  
+      const results = {};
+      if (!Array.isArray(data)) {
+        res.status(400).send("Data is not an array");
+      } else {
+        if (endIndex < data.length) {
+          results.next = {
+            page: page + 1,
+            limit: limit
+          };
+        }
+  
+        if (startIndex > 0) {
+          results.previous = {
+            page: page - 1,
+            limit: limit
+          };
+        }
+  
+        results.results = data.slice(startIndex, endIndex);
+  
+        res.paginatedResults = results;
+        next();
+      }
+    };
+  }
+  
 app.post('/data', (req, res) => {
     const newItem = {
         id: data["inventors"].length + 1,
