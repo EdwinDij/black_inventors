@@ -1,12 +1,17 @@
 const express = require('express');
 const app = express();
 const fs = require('fs');
+const helmet = require('helmet');
+const cors = require('cors');
 const port = process.env.PORT || 3000;
 const swaggerJsDoc = require('swagger-jsdoc');
 const swaggerUi = require('swagger-ui-express');
 
+app.use(cors());
+app.use(helmet());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
 
 const data = JSON.parse(fs.readFileSync('inventors.json', 'utf-8'));
 const swaggerOptions = {
